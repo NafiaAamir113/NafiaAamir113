@@ -28,46 +28,102 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 ---
 ## 💻 Tech Stack & Tools
 
-<table width="100%">
+<table align="center" width="100%">
   <tr>
-    <th width="50%" align="center">🌐 Frontend & Web</th>
-    <th width="50%" align="center">⚙️ Backend & Databases</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /></a>
+    <td width="50%" valign="top">
+      <div align="center"><b>⚡ Frontend & Web</b></div>
+      <br>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=css" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=js" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=flask" width="45"/></td>
+        </tr>
+      </table>
     </td>
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql" /></a>
-      <br><b>Pinecone</b>
+    <td width="50%" valign="top">
+      <div align="center"><b>🤖 GenAI & NLP</b></div>
+      <br>
+      <table align="center">
+        <tr>
+          <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="28"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
+
   <tr>
-    <th width="50%" align="center">🤖 Generative AI & RAG</th>
-    <th width="50%" align="center">📊 Data, Machine Learning & Tools</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <a href="https://huggingface.co"><img src="https://skillicons.dev/icons?i=huggingface" /></a>
-      <a href="https://openai.com"><img src="https://skillicons.dev/icons?i=openai" /></a>
-      <a href="https://langchain.com">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-langchain-an-open-source-framework-for-building-applications-based-on-large-language-models-logo-color-tal-revivo.png" width="48" height="48" alt="langchain"/>
-      </a>
-      <br><b>Core Focus</b><br>
-      RAG Systems • Semantic Search<br>
-      Prompt Engineering • Agents
+    <td width="50%" valign="top">
+      <div align="center"><b>📊 Data & Machine Learning</b></div>
+      <br>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=numpy" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=pandas" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=matplotlib" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/Seaborn-A0CBE8?style=for-the-badge" height="28"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/Random_Forest-5C3EE8?style=for-the-badge" height="28"/></td>
+        </tr>
+      </table>
     </td>
-    <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch,numpy,pandas,sklearn,matplotlib,git,vscode,ipynb" /></a><br>
-      
-      <a href="https://plotly.com"><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="45"/></a>
-      <a href="https://seaborn.pydata.org"><img src="https://img.shields.io/badge/Seaborn-A0CBE8?style=for-the-badge" height="45"/></a>
-      <a href="https://xgboost.readthedocs.io"><img src="https://img.shields.io/badge/XGBoost-1D3C3C?style=for-the-badge" height="45"/></a>
-      <a href="https://colab.research.google.com"><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google&logoColor=white" height="45"/></a>
-      <a href="https://streamlit.io"><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="45"/></a>
+    <td width="50%" valign="top">
+      <div align="center"><b>🛠️ Tools & Processing</b></div>
+      <br>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=vscode" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=ipynb" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=streamlit" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google&logoColor=white" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/></td>
+        </tr>
+        <tr>
+           <td colspan="3" align="center"><img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="28"/></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+
+  <tr>
+    <td colspan="2" align="center">
+      <br>
+      <div align="center"><b>🗄️ Databases & Vector Search</b></div>
+      <br>
+      <table align="center">
+        <tr>
+          <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
+          <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
+          <td style="padding: 5px;"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone" height="30"/></td>
+          <td style="padding: 5px;"><img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge" height="30"/></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 ---
 
 ## ⚖️ Flagship Project (Final Year Project)
