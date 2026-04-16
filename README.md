@@ -108,7 +108,7 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         <tr>
           <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
           <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
-          <td style="padding: 5px;"><img src="https://raw.githubusercontent.com/vector-database/logos/main/pinecone.png" width="100" alt="Pinecone"/></td>
+          <td style="padding: 5px;"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone" height="30"/></td>
           <td style="padding: 5px;"><img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge" height="30"/></td>
         </tr>
       </table>
