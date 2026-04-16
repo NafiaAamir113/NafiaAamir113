@@ -26,57 +26,88 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 - 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)  
 
 ---
-## 💻 Tech Stack & Tools
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <div align="center"><b>⚡ Frontend & Web</b></div>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=css" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=bootstrap" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=js" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=react" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=flask" width="45"/></td>
+        </tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <div align="center"><b>🤖 GenAI & NLP</b></div>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=openai" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=huggingface" width="45"/></td>
+          <td><img src="https://raw.githubusercontent.com/BruceH96/Hugging-Face-Models-Data/main/langchain.png" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
+          <td align="center"><b>RAG</b></td>
+          <td align="center"><b>LLM</b></td>
+        </tr>
+      </table>
+    </td>
+  </tr>
 
-<table width="100%">
   <tr>
-    <th width="50%" align="center">🌐 Frontend & Web</th>
-    <th width="50%" align="center">⚙️ Backend & Databases</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=html" />
-      <img src="https://skillicons.dev/icons?i=css" />
-      <img src="https://skillicons.dev/icons?i=js" />
-      <img src="https://skillicons.dev/icons?i=react" />
-      <img src="https://skillicons.dev/icons?i=bootstrap" />
+    <td width="50%" valign="top">
+      <div align="center"><b>📊 Data & Machine Learning</b></div>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=numpy" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=pandas" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=matplotlib" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=plotly" width="45"/></td>
+        </tr>
+      </table>
     </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=python" />
-      <img src="https://skillicons.dev/icons?i=flask" />
-      <img src="https://skillicons.dev/icons?i=mongodb" />
-      <img src="https://skillicons.dev/icons?i=mysql" />
-      <br><b>Pinecone</b>
+    <td width="50%" valign="top">
+      <div align="center"><b>🛠️ Tools & Processing</b></div>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=vscode" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=ipynb" width="45"/></td>
+        </tr>
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=streamlit" width="45"/></td>
+          <td align="center"><b>OCR</b></td>
+          <td align="center"><b>CV</b></td>
+        </tr>
+      </table>
     </td>
   </tr>
+
   <tr>
-    <th width="50%" align="center">🤖 Generative AI & RAG</th>
-    <th width="50%" align="center">📊 Data, Vision & Tools</th>
-  </tr>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=huggingface" />
-      <img src="https://skillicons.dev/icons?i=openai" />
-      <img src="https://raw.githubusercontent.com/BruceH96/Hugging-Face-Models-Data/main/langchain.png" width="45" height="45" style="border-radius:5px" />
-      <br><b>Core Focus</b><br>
-      RAG Systems • Semantic Search<br>
-      Prompt Engineering • Agents
-    </td>
-    <td align="center" valign="top">
-      <img src="https://skillicons.dev/icons?i=pytorch" />
-      <img src="https://skillicons.dev/icons?i=numpy" />
-      <img src="https://skillicons.dev/icons?i=pandas" />
-      <img src="https://skillicons.dev/icons?i=sklearn" />
-      <img src="https://skillicons.dev/icons?i=matplotlib" />
-      <img src="https://skillicons.dev/icons?i=plotly" />
-      <br>
-      <img src="https://skillicons.dev/icons?i=streamlit" />
-      <img src="https://skillicons.dev/icons?i=ipynb" />
-      <img src="https://skillicons.dev/icons?i=vscode" />
-      <img src="https://skillicons.dev/icons?i=git" />
+    <td colspan="2" align="center">
+      <div align="center"><b>🗄️ Databases & Vector Search</b></div>
+      <table align="center">
+        <tr>
+          <td><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
+          <td align="center" style="padding: 10px;"><b>Pinecone</b></td>
+          <td align="center" style="padding: 10px;"><b>FAISS</b></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
+
 ---
 
 ## ⚖️ Flagship Project (Final Year Project)
