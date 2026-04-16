@@ -51,14 +51,14 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
       <br>
       <table align="center">
         <tr>
-          <td><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="28"/></td>
-          <td><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="28"/></td>
-          <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="28"/></td>
+          <td><img src="https://skillicons.dev/icons?i=openai" width="45"/></td>
+          <td><img src="https://skillicons.dev/icons?i=huggingface" width="45"/></td>
+          <td><img src="https://raw.githubusercontent.com/BruceH96/Hugging-Face-Models-Data/main/langchain.png" width="45"/></td>
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
-          <td><img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="28"/></td>
-          <td><img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="25"/></td>
+          <td><img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="25"/></td>
         </tr>
       </table>
     </td>
@@ -77,12 +77,7 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         <tr>
           <td><img src="https://skillicons.dev/icons?i=pandas" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=matplotlib" width="45"/></td>
-          <td><img src="https://img.shields.io/badge/Seaborn-A0CBE8?style=for-the-badge" height="28"/></td>
-        </tr>
-        <tr>
-          <td><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="28"/></td>
-          <td><img src="https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost" height="28"/></td>
-          <td><img src="https://img.shields.io/badge/Random_Forest-5C3EE8?style=for-the-badge" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost" height="25"/></td>
         </tr>
       </table>
     </td>
@@ -97,11 +92,8 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=streamlit" width="45"/></td>
-          <td><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=google&logoColor=white" height="28"/></td>
-          <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="28"/></td>
-        </tr>
-        <tr>
-           <td colspan="3" align="center"><img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="28"/></td>
+          <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25"/></td>
+          <td><img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="25"/></td>
         </tr>
       </table>
     </td>
@@ -116,7 +108,7 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         <tr>
           <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
           <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
-          <td style="padding: 5px;"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone" height="30"/></td>
+          <td style="padding: 5px;"><img src="https://raw.githubusercontent.com/vector-database/logos/main/pinecone.png" width="100" alt="Pinecone"/></td>
           <td style="padding: 5px;"><img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge" height="30"/></td>
         </tr>
       </table>
