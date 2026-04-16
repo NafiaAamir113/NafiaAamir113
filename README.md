@@ -35,17 +35,17 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+      <img src="https://skillicons.dev/icons?i=html" />
+      <img src="https://skillicons.dev/icons?i=css" />
+      <img src="https://skillicons.dev/icons?i=js" />
+      <img src="https://skillicons.dev/icons?i=react" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" />
     </td>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+      <img src="https://skillicons.dev/icons?i=python" />
+      <img src="https://skillicons.dev/icons?i=flask" />
+      <img src="https://skillicons.dev/icons?i=mongodb" />
+      <img src="https://skillicons.dev/icons?i=mysql" />
       <br><b>Pinecone</b>
     </td>
   </tr>
@@ -55,26 +55,25 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
   </tr>
   <tr>
     <td align="center" valign="top">
-      <a href="https://huggingface.co"><img src="https://skillicons.dev/icons?i=huggingface" /></a>
-      <a href="https://openai.com"><img src="https://skillicons.dev/icons?i=openai" /></a>
-      <a href="https://langchain.com">
-        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-langchain-an-open-source-framework-for-building-applications-based-on-large-language-models-logo-color-tal-revivo.png" width="48" height="48" alt="langchain"/>
-      </a>
+      <img src="https://skillicons.dev/icons?i=huggingface" />
+      <img src="https://skillicons.dev/icons?i=openai" />
+      <img src="https://raw.githubusercontent.com/BruceH96/Hugging-Face-Models-Data/main/langchain.png" width="45" height="45" style="border-radius:5px" />
       <br><b>Core Focus</b><br>
       RAG Systems • Semantic Search<br>
       Prompt Engineering • Agents
     </td>
     <td align="center" valign="top">
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=numpy" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=plotly" /></a><br>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=streamlit" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ipynb" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a>
-      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a>
+      <img src="https://skillicons.dev/icons?i=pytorch" />
+      <img src="https://skillicons.dev/icons?i=numpy" />
+      <img src="https://skillicons.dev/icons?i=pandas" />
+      <img src="https://skillicons.dev/icons?i=sklearn" />
+      <img src="https://skillicons.dev/icons?i=matplotlib" />
+      <img src="https://skillicons.dev/icons?i=plotly" />
+      <br>
+      <img src="https://skillicons.dev/icons?i=streamlit" />
+      <img src="https://skillicons.dev/icons?i=ipynb" />
+      <img src="https://skillicons.dev/icons?i=vscode" />
+      <img src="https://skillicons.dev/icons?i=git" />
     </td>
   </tr>
 </table>
