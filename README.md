@@ -130,7 +130,7 @@ A retrieval-augmented AI system designed for structured legal document generatio
 <div align="center">
 
 📧 Email: nafiaaamir55@gmail.com  
-💼 LinkedIn: https://www.linkedin.com/in/nafia-aamir/
+💼 LinkedIn: https://www.linkedin.com/in/nafia-aamir/ <br>
 🚀 Always open to collaborations in AI research, machine learning, and impactful system design.
 
 </div>
