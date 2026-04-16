@@ -26,57 +26,24 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 - 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)  
 
 ---
-## 💻 Tech Stack & Tools
-
 <table>
 <tr>
-<th align="center">🌐 Frontend & Web</th>
-<th align="center">⚙️ Backend & Databases</th>
+<th width="50%">🌐 Frontend & Web</th>
+<th width="50%">⚙️ Backend & Databases</th>
 </tr>
-
 <tr>
-<td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,mongodb" /><br>
-<img src="https://skillicons.dev/icons?i=mysql" /><br>
-<b>Pinecone</b>
-</td>
+<td align="center" valign="top"><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /></td>
+<td align="center" valign="top"><img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql" /><br><b>Pinecone</b></td>
+</tr>
+<tr>
+<th>🤖 Generative AI & RAG</th>
+<th>📊 Data, Vision & Tools</th>
+</tr>
+<tr>
+<td align="center" valign="top"><b>Core Focus</b><br>RAG Systems • LangChain<br>Hugging Face • Prompt Eng.<br>Semantic Search</td>
+<td align="center" valign="top"><img src="https://skillicons.dev/icons?i=pytorch,numpy,sklearn,matplotlib,seaborn" /></td>
 </tr>
 </table>
-
-<br>
-
-<table>
-<tr>
-<th align="center">🤖 Generative AI & RAG</th>
-<th align="center">📊 Data, Vision & Tools</th>
-</tr>
-
-<tr>
-<td align="center">
-
-<b>Core Focus</b><br><br>
-
-RAG Systems <br>
-LangChain <br>
-Hugging Face <br>
-Prompt Engineering <br>
-Semantic Search <br>
-Cross-Encoder Reranking
-
-</td>
-
-<td align="center">
-<img src="https://skillicons.dev/icons?i=pytorch,numpy,sklearn" /><br>
-<img src="https://skillicons.dev/icons?i=matplotlib,seaborn" />
-</td>
-</tr>
-</table>
-
----
 
 ---
 
