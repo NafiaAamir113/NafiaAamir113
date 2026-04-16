@@ -12,7 +12,7 @@
 
 I’m Nafia — an Information Technology graduate, where I ranked 2nd in my batch with a CGPA of 3.75/4.00. 
 
-I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking. My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings.I am preparing to pursue **fully funded graduate studies**.
+I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.<br> My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings.I am preparing to pursue **fully funded graduate studies**.
 
 ---
 
@@ -31,31 +31,18 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 <table>
 <tr>
 <th align="center">🌐 Frontend & Web</th>
-<th align="center">🤖 AI / Machine Learning</th>
+<th align="center">⚙️ Backend & Databases</th>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts" /><br>
-Bootstrap
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" />
 </td>
 
 <td align="center">
-
-**Generative AI & NLP**  
-RAG Systems · Prompt Engineering  
-LLM Orchestration (LangChain)  
-Hugging Face Transformers  
-Semantic Search · Cross-Encoder Reranking  
-
-<br>
-
-**Machine Learning & Modeling**  
-PyTorch · Scikit-learn · XGBoost  
-Random Forest · Feature Engineering  
-Model Evaluation  
-
+<img src="https://skillicons.dev/icons?i=python,flask,mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=mysql" /><br>
+<b>Pinecone</b>
 </td>
 </tr>
 </table>
@@ -64,31 +51,32 @@ Model Evaluation
 
 <table>
 <tr>
-<th align="center">⚙️ Backend & Databases</th>
+<th align="center">🤖 Generative AI & RAG</th>
 <th align="center">📊 Data, Vision & Tools</th>
 </tr>
 
 <tr>
 <td align="center">
-<img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" /><br>
-MongoDB · SQL  
-Pinecone · FAISS  
-REST APIs · JSON · API Design
+
+<b>Core Focus</b><br><br>
+
+RAG Systems <br>
+LangChain <br>
+Hugging Face <br>
+Prompt Engineering <br>
+Semantic Search <br>
+Cross-Encoder Reranking
+
 </td>
 
 <td align="center">
-
-Pandas · NumPy  
-Matplotlib · Seaborn · Plotly  
-
-OpenCV · PyMuPDF · Tesseract OCR  
-
-Git/GitHub · VS Code  
-Jupyter · Colab · Streamlit  
-
+<img src="https://skillicons.dev/icons?i=pytorch,numpy,sklearn" /><br>
+<img src="https://skillicons.dev/icons?i=matplotlib,seaborn" />
 </td>
 </tr>
 </table>
+
+---
 
 ---
 
