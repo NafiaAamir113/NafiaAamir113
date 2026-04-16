@@ -32,7 +32,6 @@ I am preparing to pursue **fully funded graduate studies in Artificial Intellige
 - 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)  
 
 ---
-
 ## 💻 Tech Stack & Tools
 
 <table>
@@ -44,14 +43,25 @@ I am preparing to pursue **fully funded graduate studies in Artificial Intellige
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js" /><br>
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts" /><br>
+Bootstrap
 </td>
 
 <td align="center">
-Natural Language Processing  
-Machine Learning Models  
-Deep Learning (PyTorch)  
-Feature Engineering & Model Evaluation  
+
+**Generative AI & NLP**  
+RAG Systems · Prompt Engineering  
+LLM Orchestration (LangChain)  
+Hugging Face Transformers  
+Semantic Search · Cross-Encoder Reranking  
+
+<br>
+
+**Machine Learning & Modeling**  
+PyTorch · Scikit-learn · XGBoost  
+Random Forest · Feature Engineering  
+Model Evaluation  
+
 </td>
 </tr>
 </table>
@@ -61,20 +71,27 @@ Feature Engineering & Model Evaluation
 <table>
 <tr>
 <th align="center">⚙️ Backend & Databases</th>
-<th align="center">📊 Data & Tools</th>
+<th align="center">📊 Data, Vision & Tools</th>
 </tr>
 
 <tr>
 <td align="center">
 <img src="https://skillicons.dev/icons?i=python,flask,nodejs,express" /><br>
-MongoDB · SQL · Pinecone · FAISS  
-REST APIs · JSON · API Design  
+MongoDB · SQL  
+Pinecone · FAISS  
+REST APIs · JSON · API Design
 </td>
 
 <td align="center">
-Pandas · NumPy · Matplotlib · Seaborn · Plotly  
+
+Pandas · NumPy  
+Matplotlib · Seaborn · Plotly  
+
 OpenCV · PyMuPDF · Tesseract OCR  
-Git/GitHub · VS Code · Jupyter · Colab · Streamlit  
+
+Git/GitHub · VS Code  
+Jupyter · Colab · Streamlit  
+
 </td>
 </tr>
 </table>
