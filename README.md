@@ -52,8 +52,8 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
       <table align="center">
         <tr>
           <td><img src="https://skillicons.dev/icons?i=openai" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=huggingface" width="45"/></td>
-          <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30"/></td>
+          <td><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30"/></td>
+          <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30"/></td>
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
@@ -72,11 +72,11 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         <tr>
           <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=numpy" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/></td>
         </tr>
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=pandas" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=matplotlib" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="25"/></td>
+          <td><img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" height="25"/></td>
           <td><img src="https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost" height="25"/></td>
         </tr>
       </table>
@@ -88,10 +88,10 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         <tr>
           <td><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=vscode" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=ipynb" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="25"/></td>
         </tr>
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=streamlit" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25"/></td>
           <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25"/></td>
           <td><img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="25"/></td>
         </tr>
