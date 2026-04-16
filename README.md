@@ -13,12 +13,7 @@
 ## 👩🏻‍💻 About Me
 
 I’m Nafia — an Information Technology graduate, where I ranked 2nd in my batch with a CGPA of 3.75/4.00.
-
-My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings.
-
-I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
-
-I am preparing to pursue **fully funded graduate studies in Artificial Intelligence**.
+I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking. My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings.I am preparing to pursue **fully funded graduate studies**.
 
 ---
 
@@ -116,10 +111,10 @@ A retrieval-augmented AI system designed for structured legal document generatio
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🤖 AI Interview Question Generator | LLM-based system for generating interview questions | Python, LLMs |
-| 🧪 Molecular Solubility Prediction | ML model for chemical property prediction | Python, Scikit-learn |
-| 🌱 AgriSmart Crop Advisor | Crop recommendation system using ML | Python, Random Forest |
-| 🖼️ DFT Watermarking System | Frequency-domain image security system | MATLAB |
+| **AI Interview Assistant** | LLM-based system for generating interview questions | Python, LLMs |
+| **Molecular Solubility Prediction** | ML model for chemical property prediction | Python, Scikit-learn |
+| **AgriSmart Crop Advisor** | Crop recommendation system using ML | Python, Random Forest |
+| **DFT Watermarking System** | Frequency-domain image security system | MATLAB |
 
 ---
 
@@ -136,7 +131,7 @@ A retrieval-augmented AI system designed for structured legal document generatio
 ## 🎓 Teaching & Mentorship
 
 - 👩‍🏫 Section Leader — Stanford Code in Place  
-- 🌍 Mentored students from 10+ countries  
+- 🌍 Taught students from 10+ countries  
 - 🎤 Python Mentor — University Tech Community  
 - 🧑‍🏫 Conducted structured programming workshops  
 
@@ -153,5 +148,4 @@ A retrieval-augmented AI system designed for structured legal document generatio
 </div>
 
 ---
-
 🎯 *Focused on building reliable, data-driven AI systems for real-world impact. Preparing for fully funded graduate studies in Artificial Intelligence.*
