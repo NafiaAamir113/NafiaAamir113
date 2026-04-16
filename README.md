@@ -26,25 +26,58 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 - 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)  
 
 ---
-<table>
-<tr>
-<th width="50%">🌐 Frontend & Web</th>
-<th width="50%">⚙️ Backend & Databases</th>
-</tr>
-<tr>
-<td align="center" valign="top"><img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap" /></td>
-<td align="center" valign="top"><img src="https://skillicons.dev/icons?i=python,flask,mongodb,mysql" /><br><b>Pinecone</b></td>
-</tr>
-<tr>
-<th>🤖 Generative AI & RAG</th>
-<th>📊 Data, Vision & Tools</th>
-</tr>
-<tr>
-<td align="center" valign="top"><b>Core Focus</b><br>RAG Systems • LangChain<br>Hugging Face • Prompt Eng.<br>Semantic Search</td>
-<td align="center" valign="top"><img src="https://skillicons.dev/icons?i=pytorch,numpy,sklearn,matplotlib,seaborn" /></td>
-</tr>
-</table>
+## 💻 Tech Stack & Tools
 
+<table width="100%">
+  <tr>
+    <th width="50%" align="center">🌐 Frontend & Web</th>
+    <th width="50%" align="center">⚙️ Backend & Databases</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=css" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=js" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=react" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=bootstrap" /></a>
+    </td>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=python" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=flask" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mongodb" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=mysql" /></a>
+      <br><b>Pinecone</b>
+    </td>
+  </tr>
+  <tr>
+    <th width="50%" align="center">🤖 Generative AI & RAG</th>
+    <th width="50%" align="center">📊 Data, Vision & Tools</th>
+  </tr>
+  <tr>
+    <td align="center" valign="top">
+      <a href="https://huggingface.co"><img src="https://skillicons.dev/icons?i=huggingface" /></a>
+      <a href="https://openai.com"><img src="https://skillicons.dev/icons?i=openai" /></a>
+      <a href="https://langchain.com">
+        <img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-langchain-an-open-source-framework-for-building-applications-based-on-large-language-models-logo-color-tal-revivo.png" width="48" height="48" alt="langchain"/>
+      </a>
+      <br><b>Core Focus</b><br>
+      RAG Systems • Semantic Search<br>
+      Prompt Engineering • Agents
+    </td>
+    <td align="center" valign="top">
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pytorch" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=numpy" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=pandas" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=sklearn" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=matplotlib" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=plotly" /></a><br>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=streamlit" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ipynb" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=vscode" /></a>
+      <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=git" /></a>
+    </td>
+  </tr>
+</table>
 ---
 
 ## ⚖️ Flagship Project (Final Year Project)
@@ -100,6 +133,3 @@ A retrieval-augmented AI system designed for structured legal document generatio
 🚀 Always open to collaborations in AI research, machine learning, and impactful system design.
 
 </div>
-
----
-🎯 *Focused on building reliable, data-driven AI systems for real-world impact. Preparing for fully funded graduate studies in Artificial Intelligence.*
