@@ -2,9 +2,9 @@
 
 # Hi there 👋, I'm Nafia Aamir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Tech+Educator;Aspiring+Researcher;Future+PhD+Candidate" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Engineer;Tech+Educator;Aspiring+Researcher" alt="Typing SVG" />
 
-🧠 AI Engineer | Tech Educator | Aspiring Researcher | Future PhD Candidate  
+🧠 AI Engineer | Tech Educator | Aspiring Researcher 
 
 </div>
 
@@ -130,13 +130,10 @@ A retrieval-augmented AI system designed for structured legal document generatio
 <div align="center">
 
 📧 Email: nafiaaamir55@gmail.com  
-💼 LinkedIn: (add your link here)
+💼 LinkedIn: https://www.linkedin.com/in/nafia-aamir/
+🚀 Always open to collaborations in AI research, machine learning, and impactful system design.
 
 </div>
-
----
-
-🚀 Always open to collaborations in AI research, machine learning, and impactful system design.
 
 ---
 
