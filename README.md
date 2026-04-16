@@ -26,10 +26,13 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 - 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)  
 
 ---
+## 💻 Tech Stack & Tools
+
 <table align="center" width="100%">
   <tr>
     <td width="50%" valign="top">
       <div align="center"><b>⚡ Frontend & Web</b></div>
+      <br>
       <table align="center">
         <tr>
           <td><img src="https://skillicons.dev/icons?i=html" width="45"/></td>
@@ -45,16 +48,17 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
     </td>
     <td width="50%" valign="top">
       <div align="center"><b>🤖 GenAI & NLP</b></div>
+      <br>
       <table align="center">
         <tr>
           <td><img src="https://skillicons.dev/icons?i=openai" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=huggingface" width="45"/></td>
-          <td><img src="https://raw.githubusercontent.com/BruceH96/Hugging-Face-Models-Data/main/langchain.png" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" height="30"/></td>
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
-          <td align="center"><b>RAG</b></td>
-          <td align="center"><b>LLM</b></td>
+          <td><img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="25"/></td>
+          <td><img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="25"/></td>
         </tr>
       </table>
     </td>
@@ -63,6 +67,7 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
   <tr>
     <td width="50%" valign="top">
       <div align="center"><b>📊 Data & Machine Learning</b></div>
+      <br>
       <table align="center">
         <tr>
           <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
@@ -72,12 +77,13 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         <tr>
           <td><img src="https://skillicons.dev/icons?i=pandas" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=matplotlib" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=plotly" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/XGBoost-1C3C3C?style=for-the-badge&logo=xgboost" height="25"/></td>
         </tr>
       </table>
     </td>
     <td width="50%" valign="top">
       <div align="center"><b>🛠️ Tools & Processing</b></div>
+      <br>
       <table align="center">
         <tr>
           <td><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
@@ -86,8 +92,8 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=streamlit" width="45"/></td>
-          <td align="center"><b>OCR</b></td>
-          <td align="center"><b>CV</b></td>
+          <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25"/></td>
+          <td><img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="25"/></td>
         </tr>
       </table>
     </td>
@@ -95,13 +101,15 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
 
   <tr>
     <td colspan="2" align="center">
+      <br>
       <div align="center"><b>🗄️ Databases & Vector Search</b></div>
+      <br>
       <table align="center">
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
-          <td align="center" style="padding: 10px;"><b>Pinecone</b></td>
-          <td align="center" style="padding: 10px;"><b>FAISS</b></td>
+          <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mongodb" width="45"/></td>
+          <td style="padding: 5px;"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></td>
+          <td style="padding: 5px;"><img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone" height="30"/></td>
+          <td style="padding: 5px;"><img src="https://img.shields.io/badge/FAISS-4285F4?style=for-the-badge" height="30"/></td>
         </tr>
       </table>
     </td>
