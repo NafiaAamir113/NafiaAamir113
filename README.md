@@ -194,7 +194,6 @@ A retrieval-augmented AI system designed for structured legal document generatio
   <a href="https://www.linkedin.com/in/nafia-aamir/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
   </a>
-</div> <br><br>
+<br><br>
 🚀 Always open to collaborations in research and impactful system design.
-
 </div>
