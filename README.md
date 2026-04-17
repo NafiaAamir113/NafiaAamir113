@@ -10,9 +10,9 @@
 
 ## 👩🏻‍💻 About Me
 
-I’m Nafia — an Information Technology graduate. throughout, my studies i ranked in the top 3 students of my batch and completed my degree by ranking 2nd in my batch with a CGPA of 3.75/4.00. 
+I’m Nafia — an Information Technology graduate who consistently ranked among the top students in my batch, graduating 2nd with a CGPA of 3.75/4.00.
 
-I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.<br> My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings.I am preparing to pursue **fully funded graduate studies**.
+Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.<br> My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue **fully funded graduate studies**.
 
 ---
 
@@ -57,7 +57,10 @@ I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, 
         </tr>
         <tr>
           <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
-          <td><img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="25"/></td>
+          <td>
+            <div align="center">
+              <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="25"/></td>
+            </div>
           <td><img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="25"/></td>
         </tr>
       </table>
@@ -168,6 +171,6 @@ A retrieval-augmented AI system designed for structured legal document generatio
 
 📧 Email: nafiaaamir55@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/nafia-aamir/ <br><br>
-🚀 Always open to collaborations in AI research, machine learning, and impactful system design.
+🚀 Always open to collaborations in research and impactful system design.
 
 </div>
