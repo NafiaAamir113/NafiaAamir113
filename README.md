@@ -184,30 +184,35 @@ A retrieval-augmented AI system designed for structured legal document generatio
 ---
 
 ## 🤝 Connect With Me
-
 <br />
+<hr />
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Handshakes/Handshake.png" alt="Handshake" width="50" />
-  <h2>Let's Build Something Meaningful Together!</h2>
+  <br />
+  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Handshake-flat-icons-inmotus-design.png" alt="Handshake" width="60" />
+  
+  <h2 align="center">Let's Build Something Meaningful Together!</h2>
+  
   <p align="center">
     <i>Always open to collaborations in AI research and impactful system design.</i>
   </p>
+
+  <br />
 
   <table align="center">
     <tr>
       <td style="padding: 10px;">
         <a href="mailto:nafiaaamir55@gmail.com">
-          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" alt="Email Nafia" />
+          <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="https://www.linkedin.com/in/nafia-aamir/">
-          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn Profile" />
+          <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
         </a>
       </td>
       <td style="padding: 10px;">
         <a href="https://github.com/nafia-aamir">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" alt="GitHub Profile" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
         </a>
       </td>
     </tr>
@@ -217,5 +222,3 @@ A retrieval-augmented AI system designed for structured legal document generatio
 
   <img src="https://komarev.com/ghpvc/?username=nafia-aamir&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
-
-
