@@ -59,9 +59,12 @@ Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Prese
           <td><img src="https://skillicons.dev/icons?i=python" width="45"/></td>
           <td>
             <div align="center">
-              <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="25"/></td>
+              <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" height="50"/></td>
             </div>
-          <td><img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="25"/></td>
+          <td>
+            <div align="center">
+              <img src="https://img.shields.io/badge/Prompt_Eng-007ACC?style=for-the-badge" height="25"/></td>
+            </div>
         </tr>
       </table>
     </td>
