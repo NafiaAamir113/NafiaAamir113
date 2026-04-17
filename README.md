@@ -10,7 +10,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I’m Nafia — an Information Technology graduate, where I ranked 2nd in my batch with a CGPA of 3.75/4.00. 
+I’m Nafia — an Information Technology graduate. throughout, my studies i ranked in the top 3 students of my batch and completed my degree by ranking 2nd in my batch with a CGPA of 3.75/4.00. 
 
 I am currently a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.<br> My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings.I am preparing to pursue **fully funded graduate studies**.
 
