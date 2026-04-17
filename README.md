@@ -51,7 +51,7 @@ Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Prese
       <br>
       <table align="center">
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=openai" width="45"/></td>
+          <td><img src="https://img.shields.io/badge/LLM-4B0082?style=for-the-badge&logo=openai&logoColor=white" height="28"/></td>
           <td><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="30"/></td>
           <td><img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white" height="30"/></td>
         </tr>
@@ -76,8 +76,13 @@ Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Prese
       <br>
       <table align="center">
         <tr>
-          <td><div align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
+          <td>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
+            </div>
+          <td>
+            <div align="center">
+            <img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
           </div>
           <td><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/></td>
         </tr>
@@ -93,8 +98,14 @@ Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Prese
       <br>
       <table align="center">
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=git" width="45"/></td>
-          <td><img src="https://skillicons.dev/icons?i=vscode" width="45"/></td>
+          <td>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=git" width="45"/></td>
+            </div>
+          <td>
+            <div align="center">
+              <img src="https://skillicons.dev/icons?i=vscode" width="45"/></td>
+            </div>
           <td><img src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" height="25"/></td>
         </tr>
         <tr>
