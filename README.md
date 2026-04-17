@@ -10,7 +10,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I’m Nafia — an Information Technology graduate who consistently ranked among the top students in my batch, graduating 2nd with a CGPA of 3.75/4.00.
+I’m Nafia — a recent Information Technology graduate who consistently ranked among the top students in my batch, graduating 2nd with a CGPA of 3.75/4.00.
 
 Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.<br> My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue **fully funded graduate studies**.
 
@@ -111,7 +111,10 @@ Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Prese
         <tr>
           <td><img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" height="25"/></td>
           <td><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" height="25"/></td>
-          <td><img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="25"/></td>
+          <td>
+            <div align="center">
+              <img src="https://img.shields.io/badge/OCR-FFA500?style=for-the-badge" height="25"/></td>
+            </div>
         </tr>
       </table>
     </td>
