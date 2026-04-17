@@ -76,8 +76,9 @@ Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Prese
       <br>
       <table align="center">
         <tr>
-          <td><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
+          <td><div align="center"><img src="https://skillicons.dev/icons?i=pytorch" width="45"/></td>
           <td><img src="https://skillicons.dev/icons?i=sklearn" width="45"/></td>
+          </div>
           <td><img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" height="25"/></td>
         </tr>
         <tr>
