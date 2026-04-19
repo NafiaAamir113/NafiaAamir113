@@ -179,20 +179,24 @@ A retrieval-augmented AI system designed for structured legal document generatio
 - 👩‍🏫 Section Leader — Stanford Code in Place  
 - 🌍 Taught students from 10+ countries  
 - 🎤 Python Mentor — University Tech Community  
-- 🧑‍🏫 Conducted structured programming workshops  
+- 🧑‍🏫 Conducted structured programming workshops
+
 <br />
 <div align="center">
-  <h2>📊 Top Languages & Skills</h2>
+  <h2>📊 GitHub Analytics</h2>
   
   <table align="center">
     <tr>
-      <td align="center">
+      <td align="center" style="padding: 10px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafiaAamir113&layout=compact&theme=radical&hide_border=true&langs_count=6" height="180" />
+      </td>
+      <td align="center" style="padding: 10px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=NafiaAamir113&show_icons=true&theme=radical&hide_border=true&count_private=true&hide=stars,commits,prs,issues" height="180" />
       </td>
     </tr>
   </table>
 </div>
----
+<br />
 
 ## 🤝 Connect With Me
 <div align="center">
