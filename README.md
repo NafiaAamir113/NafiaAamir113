@@ -10,7 +10,7 @@
 
 ## 👩🏻‍💻 About Me
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="60%" style="vertical-align: top; border: none; padding-right: 25px;">
       I’m Nafia — a recent Information Technology graduate who consistently ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00.
@@ -19,7 +19,7 @@
       <br /><br />
       My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue fully funded graduate studies.
     </td>
-    <td width="40%" align="center" style="border: none; vertical-align: top;">
+    <td width="40%" align="center" style="vertical-align: top; border: none;">
       <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" alt="Modern AI Workspace" width="100%" />
     </td>
   </tr>
