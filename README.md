@@ -20,7 +20,7 @@
       My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue fully funded graduate studies.
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-for-GitHub/blob/main/Animations/Girl_with_laptop.gif?raw=true" alt="Girl Coding" width="100%" />
+      <img src="https://cdn.pixabay.com/animation/2022/11/12/11/33/11-33-33-851_512.gif" alt="Coding Girl Animation" width="100%" />
     </td>
   </tr>
 </table>
