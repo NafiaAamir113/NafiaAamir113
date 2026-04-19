@@ -189,19 +189,18 @@ A retrieval-augmented AI system designed for structured legal document generatio
   <table align="center">
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=nafia-aamir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nafia's GitHub Stats" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api?username=NafiaAamir113show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nafia's GitHub Stats" height="150" />
       </td>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafia-aamir&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Nafia's Top Languages" height="150" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafiaAamir113&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Nafia's Top Languages" height="150" />
       </td>
     </tr>
   </table>
 
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafia-aamir&theme=radical&hide_border=true" alt="GitHub Streak" />
+<br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafiaAamir113&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <br />
----
 
 ## 🤝 Connect With Me
 <div align="center">
@@ -218,7 +217,7 @@ A retrieval-augmented AI system designed for structured legal document generatio
         </a>
       </td>
       <td style="padding: 10px;">
-        <a href="https://github.com/nafia-aamir">
+        <a href="https://github.com/NafiaAamir113">
           <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
         </a>
       </td>
@@ -226,10 +225,10 @@ A retrieval-augmented AI system designed for structured legal document generatio
   </table>
 
   <p align="center">
-    <i>Always open to collaborations in AI research and impactful system design.</i>
+    <i>🚀Always open to collaborations in AI research and impactful system design.</i>
   </p>
 
   <br />
 
-  <img src="https://komarev.com/ghpvc/?username=nafia-aamir&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=NafiaAamir113&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </div>
