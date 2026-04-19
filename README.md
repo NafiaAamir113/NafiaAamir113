@@ -206,7 +206,7 @@ A retrieval-augmented AI system designed for structured legal document generatio
   </table>
 
   <p align="center">
-    <i>🚀Always open to collaborations in research and impactful system design.</i>
+    <i>🚀 Always open to collaborations in research and impactful system design.</i>
   </p>
 
   <br />
