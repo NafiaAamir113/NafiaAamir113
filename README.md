@@ -2,7 +2,7 @@
 
 # Hi there 👋, I'm Nafia Aamir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FE4A49&center=true&vCenter=true&width=600&lines=AI+Engineer;Tech+Educator+❤️;Aspiring+Researcher;Graduate+Aspirant" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=FE4A49&center=true&vCenter=true&width=600&lines=AI+Engineer;Tech+Educator+✨;Aspiring+Researcher;Building+Reliable+AI+Systems" />
 
 </div>
 
