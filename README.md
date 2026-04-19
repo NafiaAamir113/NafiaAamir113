@@ -10,7 +10,7 @@
 
 ## 👩🏻‍💻 About Me
 
-I’m Nafia — a recent Information Technology graduate who consistently ranked among the top 3 students of the batch, graduating 2nd with a CGPA of 3.75/4.00.
+I’m Nafia — a recent Information Technology graduate who consistently ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00.
 
 Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.<br> My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue **fully funded graduate studies**.
 
@@ -188,15 +188,8 @@ A retrieval-augmented AI system designed for structured legal document generatio
 <hr />
 <div align="center">
   <br />
-  <img src="https://img.icons8.com/external-flat-icons-inmotus-design/67/external-Handshake-flat-icons-inmotus-design.png" alt="Handshake" width="60" />
   
-  <h2 align="center">Let's Build Something Meaningful Together!</h2>
-  
-  <p align="center">
-    <i>Always open to collaborations in AI research and impactful system design.</i>
-  </p>
-
-  <br />
+  <h1>🤝</h1>
 
   <table align="center">
     <tr>
@@ -217,6 +210,10 @@ A retrieval-augmented AI system designed for structured legal document generatio
       </td>
     </tr>
   </table>
+
+  <p align="center">
+    <i>Always open to collaborations in AI research and impactful system design.</i>
+  </p>
 
   <br />
 
