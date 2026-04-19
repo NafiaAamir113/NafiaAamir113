@@ -184,13 +184,7 @@ A retrieval-augmented AI system designed for structured legal document generatio
 ---
 
 ## 🤝 Connect With Me
-<br />
-<hr />
 <div align="center">
-  <br />
-  
-  <h1>🤝</h1>
-
   <table align="center">
     <tr>
       <td style="padding: 10px;">
