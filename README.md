@@ -20,7 +20,7 @@
       My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue fully funded graduate studies.
     </td>
     <td width="40%" align="center">
-      <img src="https://cdn.pixabay.com/animation/2022/11/12/11/33/11-33-33-851_512.gif" alt="Coding Girl Animation" width="100%" />
+      https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966
     </td>
   </tr>
 </table>
