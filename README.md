@@ -188,17 +188,14 @@ A retrieval-augmented AI system designed for structured legal document generatio
   
   <table align="center">
     <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=NafiaAamir113show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nafia's GitHub Stats" height="150" />
+      <td style="padding: 5px;">
+        <img src="https://github-readme-stats.vercel.app/api?username=NafiaAamir113&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nafia's GitHub Stats" height="150" />
       </td>
-      <td>
+      <td style="padding: 5px;">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NafiaAamir113&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Nafia's Top Languages" height="150" />
       </td>
     </tr>
   </table>
-
-<br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NafiaAamir113&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 <br />
 
