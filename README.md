@@ -10,7 +10,7 @@
 
 ## 👩🏻‍💻 About Me
 
-<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" style="margin-left: 20px;">
+<img align="right" width="380" src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" style="margin-left: 20px;">
 
 I’m Nafia — a recent Information Technology graduate who consistently ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00.
 
