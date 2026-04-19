@@ -182,6 +182,26 @@ A retrieval-augmented AI system designed for structured legal document generatio
 - 🧑‍🏫 Conducted structured programming workshops  
 
 ---
+<br />
+<div align="center">
+  <h2>⚙️ GitHub Analytics</h2>
+  
+  <table align="center">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=nafia-aamir&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Nafia's GitHub Stats" height="150" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nafia-aamir&layout=compact&theme=radical&hide_border=true&langs_count=6" alt="Nafia's Top Languages" height="150" />
+      </td>
+    </tr>
+  </table>
+
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nafia-aamir&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+<br />
+---
 
 ## 🤝 Connect With Me
 <div align="center">
