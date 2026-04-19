@@ -3,6 +3,7 @@
 # Hi there 👋, I'm Nafia Aamir
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=600&speed=40&color=FFB347&center=true&vCenter=true&width=600&lines=AI+Engineer;Tech+Educator;Aspiring+Researcher;Building+Reliable+AI+Systems" />
+<img src="https://raw.githubusercontent.com/NafiaAamir113/NafiaAamir113/main/assets/girl-coding.gif" alt="Nafia Coding" width="400" />
 
 </div>
 
