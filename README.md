@@ -20,7 +20,7 @@
       My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue fully funded graduate studies.
     </td>
     <td width="40%" align="center">
-      <img src="https://github.com/user-attachments/assets/75e206b0-7409-43c2-8408-724d17462a63" alt="Girl Coding Animation" width="100%" />
+      <img src="https://assets.website-files.com/5e09e58729f59117cf091740/5e1de74f391e66c997381652_Work-In-Progress.gif" alt="Girl Coding Animation" width="100%" />
     </td>
   </tr>
 </table>
