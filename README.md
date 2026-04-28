@@ -10,7 +10,17 @@
 
 ## 👩🏻‍💻 About Me
 
-<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" style="margin-left: 15px; margin-top: 5px;">
+
+I’m Nafia — a recent Information Technology graduate who consistently **ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00**.
+
+Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
+
+My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue **fully funded graduate studies**.
+
+<br clear="right"/>
+
+<!-- <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="65%" style="vertical-align: middle; border: none; padding-right: 20px;">
       I’m Nafia — a recent Information Technology graduate who consistently <b>ranked among the top 3 students in my batch, graduating 2nd with a CGPA of 3.75/4.00</b>.
@@ -23,9 +33,7 @@
       <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzczODc3MDEsIm5iZiI6MTc3NzM4NzQwMSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI4VDE0NDMyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlOTY2YTI5ZjdlODJmNTViYTQ0MWZiMjUxNzVmNmNkZWFmNzdjNmUzYWM5Y2Y1YjEzZTgwMzYwZDg5YTc1OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hzXDGvW2l5vvnL6WjVEHozkyyLl0kPAdg-nXHSF-zfI" width="100%" style="display: block; border-radius: 10px;">
     </td>
   </tr>
-</table>
-     
-
+</table> -->
 
 ---
 
