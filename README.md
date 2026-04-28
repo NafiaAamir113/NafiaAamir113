@@ -7,18 +7,7 @@
 </div>
 
 ---
-
 ## 👩🏻‍💻 About Me
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" style="margin-left: 15px; margin-top: 5px;">
-
-I’m Nafia — a recent Information Technology graduate who consistently **ranked among the top 3 students in my batch, graduating 2nd with a CGPA of 3.75/4.00**.
-
-Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
-
-My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I aim to pursue **fully funded graduate studies**.
-
-<br clear="right"/>
 
 <!-- <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
@@ -33,10 +22,36 @@ My work focuses on developing reliable and data-driven AI systems that improve t
       <img src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzczODc3MDEsIm5iZiI6MTc3NzM4NzQwMSwicGF0aCI6Ii83NDAzODE5MC8yNzE4Mzk5MjctZjVkMmQ4NjYtZDI1Yy00ODczLThkODItNDI1ZDJjNjJmYzJlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjA0MjglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwNDI4VDE0NDMyMVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJlOTY2YTI5ZjdlODJmNTViYTQ0MWZiMjUxNzVmNmNkZWFmNzdjNmUzYWM5Y2Y1YjEzZTgwMzYwZDg5YTc1OGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JnJlc3BvbnNlLWNvbnRlbnQtdHlwZT1pbWFnZSUyRmdpZiJ9.hzXDGvW2l5vvnL6WjVEHozkyyLl0kPAdg-nXHSF-zfI" width="100%" style="display: block; border-radius: 10px;">
     </td>
   </tr>
-</table> -->
+</table>  -->
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 30px; padding: 20px 0;">
+
+  <!-- LEFT SIDE TEXT -->
+  <div style="flex: 1; font-size: 16px; line-height: 1.6;">
+
+    I’m Nafia — a recent Information Technology graduate who consistently 
+    <b>ranked among the top 3 students in my batch, graduating 2nd with a CGPA of 3.75/4.00</b>.
+
+    <br><br>
+
+    Currently, I serve as a <b>Section Leader at Stanford Code in Place (2025–Present)</b>, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
+
+    <br><br>
+
+    My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I aim to pursue <b>fully funded graduate studies</b>.
+
+  </div>
+
+  <!-- RIGHT SIDE IMAGE -->
+  <div style="flex: 0 0 35%; display: flex; justify-content: center;">
+    <img 
+      src="https://private-user-images.githubusercontent.com/74038190/271839927-f5d2d866-d25c-4873-8d82-425d2c62fc2e.gif"
+      style="width: 100%; max-width: 320px; border-radius: 12px;"
+    />
+  </div>
+
+</div>
 
 ---
-
 ## 🏆 Selected Achievements
 
 - 🥈 Ranked **2nd in batch** — CGPA: 3.75/4.00  
@@ -44,8 +59,8 @@ My work focuses on developing reliable and data-driven AI systems that improve t
 - 🧩 Harvard CS50x Puzzle Day — 100% completion (2025 & 2026)  
 - 🏆 Hackathon Winner — Taskformer's AI Chatbot Hackathon (IBS Assistant)  
 - 🧠 MIT Informatics — Global Rank 109  
-- 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)  
-
+- 🎓 University Merit Scholarship Recipient & Prime Minister Laptop Award (2023)
+  
 ---
 ## 💻 Tech Stack & Tools
 
