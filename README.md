@@ -164,19 +164,22 @@ A retrieval-augmented AI system designed for structured legal document generatio
 
 ---
 
-## 🌟 Featured Projects
+### 🌟 Featured Projects
 
 | Project | Description | Tech Stack |
-|--------|-------------|------------|
-| **AI Interview Assistant** | LLM-based system for generating interview questions | Python, LLMs |
-| **Molecular Solubility Prediction** | ML model for chemical property prediction | Python, Scikit-learn |
-| **AgriSmart Crop Advisor** | Crop recommendation system using ML | Python, Random Forest |
-| **DFT Watermarking System** | Frequency-domain image security system | MATLAB |
+|:--------|:------------|:-----------|
+| **Green Crisis Grid AI** | AI-powered disaster response system using RAG and real-time weather analysis. | Python, LLaMA 3.3, Pinecone |
+| **DFT Watermarking System** | Frequency-domain image security system for digital rights management. | MATLAB |
+| **AgriSmart Crop Advisor** | Crop recommendation system using machine learning for precision agriculture. | Python, Random Forest |
+| **Molecular Solubility Prediction** | ML model for chemical property prediction and molecular analysis. | Python, Scikit-learn |
+| **AI Interview Assistant** | LLM-based system for generating dynamic and context-aware interview questions. | Python, LangChain, LLMs |
+
 
 ---
 
 ## 🏆 International Hackathons & Coding Competitions
 
+- 🌍 5th Hack-Nation Hackathon — Green Crisis Grid AI (RAG-based Disaster Management)
 - 🏆 Winner — Taskformer's AI Chatbot Hackathon (IBS Assistant)  
 - 🤖 OpenAI Hackathon (lablab.ai) — AI Reading Assistant using GPT-3 & Whisper  
 - 🌱 University Hackathon — AgriSmart Crop Advisor  
