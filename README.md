@@ -12,7 +12,7 @@
 
 <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" style="margin-left: 15px; margin-top: 5px;">
 
-I’m Nafia — a recent Information Technology graduate who consistently **ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00**.
+I’m Nafia — a recent Information Technology graduate who consistently **ranked among the top 3 students in my batch, graduating 2nd with a CGPA of 3.75/4.00**.
 
 Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
 
