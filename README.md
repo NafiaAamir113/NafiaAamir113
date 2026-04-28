@@ -16,7 +16,7 @@ I’m Nafia — a recent Information Technology graduate who consistently **rank
 
 Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
 
-My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue **fully funded graduate studies**.
+My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I aim to pursue **fully funded graduate studies**.
 
 <br clear="right"/>
 
