@@ -12,7 +12,7 @@
 
 <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
-    <td width="65%" style="vertical-align: middle; border: none;">
+    <td width="65%" style="vertical-align: middle; border: none; padding-right: 20px;">
       I’m Nafia — a recent Information Technology graduate who consistently ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00.
       <br /><br />
       Currently, I serve as a Section Leader at Stanford Code in Place (2025–Present), where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
@@ -20,7 +20,7 @@
       My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue fully funded graduate studies.
     </td>
     <td width="35%" align="right" style="vertical-align: middle; border: none;">
-      <img src="https://user-images.githubusercontent.com/74038190/213760705-0d5bf320-4f43-4352-b74b-0889ae726bf7.gif" width="100%" style="display: block;">
+      <img src="https://user-images.githubusercontent.com/74038190/214375120-7b484054-1907-4c4d-96d9-eb76cd91ee49.gif" width="100%" style="display: block; border-radius: 10px;">
     </td>
   </tr>
 </table>
