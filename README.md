@@ -33,16 +33,6 @@
   </tr>
 </table>
 
-### 🚀 Selected Achievements
-
--🥈 Ranked **2nd in batch** — CGPA: 3.75/4.00
--🎓 **Stanford Code in Place** — Section Leader (2025–Present)
--🧱 **CALICO Spring '26** — Silver Brick Award (Ranked #16 in Pakistan)
--🧩 **Harvard CS50x Puzzle Day** — 100% completion (2025 & 2026)
--🏆 **Hackathon Winner** — Taskformer's AI Chatbot Hackathon (IBS Assistant)
--🧠 **MIT Informatics** — Global Rank 109
--🎓 **University Merit Scholarship Recipient** & Prime Minister Laptop Award (2023)
-
 ---
 ## 🏆 Selected Achievements
 
