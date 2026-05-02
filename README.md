@@ -29,7 +29,7 @@
     <td width="35%" align="right" style="vertical-align: middle; border: none;">
       <!-- <img src ="https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"
         width="100%" style="display: block; border-radius: 10px;">  -->
-      <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" width="100%" style="display: block; border-radius: 10px;">
+      <img src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" width="100%" style="display: block; border-radius: 10px;">
     </td>
   </tr>
 </table>
