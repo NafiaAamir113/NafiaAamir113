@@ -27,22 +27,21 @@
         in real-world settings. I aim to pursue <b>fully funded graduate studies</b>.</p>
     </td>
     <td width="35%" align="right" style="vertical-align: middle; border: none;">
-      <!-- <img src ="https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"
-        width="100%" style="display: block; border-radius: 10px;">  -->
-      <img src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" width="100%" style="display: block; border-radius: 10px;">
+      <img src ="https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"
+        width="100%" style="display: block; border-radius: 10px;"> 
     </td>
   </tr>
 </table>
 
 ### 🚀 Selected Achievements
 
-🥈 Ranked **2nd in batch** — CGPA: 3.75/4.00
-🎓 **Stanford Code in Place** — Section Leader (2025–Present)
-🧱 **CALICO Spring '26** — Silver Brick Award (Ranked #16 in Pakistan)
-🧩 **Harvard CS50x Puzzle Day** — 100% completion (2025 & 2026)
-🏆 **Hackathon Winner** — Taskformer's AI Chatbot Hackathon (IBS Assistant)
-🧠 **MIT Informatics** — Global Rank 109
-🎓 **University Merit Scholarship Recipient** & Prime Minister Laptop Award (2023)
+-🥈 Ranked **2nd in batch** — CGPA: 3.75/4.00
+-🎓 **Stanford Code in Place** — Section Leader (2025–Present)
+-🧱 **CALICO Spring '26** — Silver Brick Award (Ranked #16 in Pakistan)
+-🧩 **Harvard CS50x Puzzle Day** — 100% completion (2025 & 2026)
+-🏆 **Hackathon Winner** — Taskformer's AI Chatbot Hackathon (IBS Assistant)
+-🧠 **MIT Informatics** — Global Rank 109
+-🎓 **University Merit Scholarship Recipient** & Prime Minister Laptop Award (2023)
 
 ---
 ## 🏆 Selected Achievements
