@@ -9,7 +9,7 @@
 ---
 ## 👩🏻‍💻 About Me
 
-<!-- <table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
+<table border="0" cellpadding="0" cellspacing="0" width="100%" style="border-collapse: collapse; border: none;">
   <tr>
     <td width="65%" style="vertical-align: middle; border: none; padding-right: 20px;">
       <p style="margin: 6px 0;">
@@ -27,22 +27,12 @@
         in real-world settings. I aim to pursue <b>fully funded graduate studies</b>.</p>
     </td>
     <td width="35%" align="right" style="vertical-align: middle; border: none;">
-      <img src ="https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"
-        width="100%" style="display: block; border-radius: 10px;"> 
+      <!-- <img src ="https://camo.githubusercontent.com/14488cdf28d5ced72f07888590f05883c8b4ff15288896a06d5803bf91dc2607/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"
+        width="100%" style="display: block; border-radius: 10px;">  -->
+      <img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" width="100%" style="display: block; border-radius: 10px;">
     </td>
   </tr>
-</table> -->
-## 👩🏻‍💻 About Me
-
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/212239349-89033320-9669-4509-9ec6-896cf151a629.gif" style="margin-left: 15px; margin-top: 5px;">
-
-I’m Nafia — a recent Information Technology graduate who consistently **ranked among the top 3 students of my batch, graduating 2nd with a CGPA of 3.75/4.00**.
-
-Currently, I serve as a **Section Leader at Stanford Code in Place (2025–Present)**, where I teach Python to a global cohort of students and mentor them in structured problem-solving and computational thinking.
-
-My work focuses on developing reliable and data-driven AI systems that improve the factuality, robustness, and trustworthiness of modern machine learning models in real-world settings. I am preparing to pursue **fully funded graduate studies**.
-
-<br clear="right"/>
+</table>
 
 ### 🚀 Selected Achievements
 
